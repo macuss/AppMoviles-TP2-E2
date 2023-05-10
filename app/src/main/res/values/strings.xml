@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Capitales</string>
+    <string name="cantidad_de_poblaci_n">Cantidad de población</string>
+    <string name="nombre_de_la_ciudad">Nombre de la ciudad</string>
+    <string name="modificar">Modificar</string>
+    <string name="rea_de_modificaci_n_ningrese_el_nombre_de_la_ciudad_nluego_introduzca_la_nueva_cifra_de_poblaci_n">Área de modificación\nIngrese el nombre de la ciudad\nLuego introduzca la nueva cifra de población</string>
+    <string name="rea_de_eliminaci_n_ningrese_el_nombre_del_pais_npara_la_eliminaci_n_de_todas_las_ciudades_adjuntas">Área de eliminación \nIngrese el nombre del pais \npara la eliminación de todas las ciudades adjuntas</string>
+    <string name="nombre_del_pais">Nombre del Pais</string>
+    <string name="borrar">Borrar</string>
+    <string name="area_de_consulta_eliminaci_n_nmediante_el_nombre_de_la_ciudad_capital">Area de consulta/eliminación\nmediante el nombre de la Ciudad Capital</string>
+    <string name="consultar">Consultar</string>
+    <string name="aqu_aparecer_n_los_datos_al_consultar">(Aquí aparecerán los datos al consultar)</string>
+    <string name="borrar_consultar_ciudades_por_nombre">Borrar/Consultar Ciudades Por Nombre</string>
+    <string name="nombre_del_pa_s">Nombre del País</string>
+    <string name="guardar">Guardar</string>
+    <string name="modificar_poblaci_n">Modificar Población</string>
+    <string name="borrar_ciudades_de_un_pais">Borrar Ciudades de un pais</string>
+    <string name="consultar_todo">Consultar Todo</string>
+    <string name="poblacion">Poblacion</string>
+    <string name="opciones">Opciones</string>
+</resources>
